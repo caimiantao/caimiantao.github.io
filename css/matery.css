@@ -2168,3 +2168,8 @@ footer .copy-right {
     width: 100%;
     overflow: hidden;
  }
+ #busuanzi_container_site_pv,
+ #busuanzi_value_site_pv,
+ #busuanzi_container_site_uv{
+    display: inline !important;
+}
