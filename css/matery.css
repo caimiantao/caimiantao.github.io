@@ -2163,3 +2163,8 @@ footer .copy-right {
         position: relative;
     }
 }
+.reprint__type{
+    display: inline-block;
+    width: 100%;
+    overflow: hidden;
+ }
