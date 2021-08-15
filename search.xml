@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>My New Post</title>
-      <link href="/article/mynewpost.html"/>
-      <url>/article/mynewpost.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Markdown快速入门（Typora）</title>
       <link href="/article/markdownkuaisurumentypora.html"/>
       <url>/article/markdownkuaisurumentypora.html</url>
@@ -30,6 +17,19 @@
             <tag> Markdown </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My New Post</title>
+      <link href="/article/mynewpost.html"/>
+      <url>/article/mynewpost.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
       
     </entry>
     
